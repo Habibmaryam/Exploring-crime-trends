@@ -1,4 +1,4 @@
-![image](https://github.com/Habibmaryam/exploring-crime-trends/assets/117365835/1de6dcaa-763a-414b-9129-bc0480808ec7)# Exploring-crime-trends
+#  Exploring-crime-trends
 Checking out the safety level in the United States of America from the year 2020 till 2023
 
 ---
