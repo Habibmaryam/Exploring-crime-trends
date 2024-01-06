@@ -129,6 +129,7 @@ Awareness should be made so that citizens will reduce movements when the rate of
 # Summary and Conclusion
 
 **It is seen that:**
+
 77th Street suffers the greatest number of crimes which is in North America with a cumulative of 8,700 crimes committed.
 Adults population are the most in population by age range who suffer attacks from criminals with a total of 10.2k criminal attacks suffered by them.
 Women are the most abused by criminals especially by their partners be it by physical assault, rape, and vandalism with a 59.79%
