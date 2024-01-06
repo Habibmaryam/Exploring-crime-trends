@@ -1,4 +1,4 @@
-# Exploring-crime-trends
+![image](https://github.com/Habibmaryam/exploring-crime-trends/assets/117365835/1de6dcaa-763a-414b-9129-bc0480808ec7)# Exploring-crime-trends
 Checking out the safety level in the United States of America from the year 2020 till 2023
 
 ---
@@ -114,9 +114,29 @@ July’s crime hits up to 10,900 and 10,800 in August.
 The least is December with a total crime rate of 6,900 crimes because of the weather which goes as cold as ice in most areas especially, at the end of the month.
 
 **Crimes by time of occurrence**
-The line graph below shows that crime occurs mostly when it is almost mid day starting from 10:00 am.
+The line graph below shows that crime occurs mostly when it is almost midday starting from 10:00 am.
 A total of 2,700,000 and 1,400,000 crimes occur between 10:00 am and noon.
 Additionally, no crime was spotted as of 05:00 am. This might be because the majority of the crime committers are asleep as of then. 
+
+---
+# Recommendation
+
+More crime prevention personnel should be assigned to those areas for patrol in North America to ensure that the response rate of crime will be reduced.
+The investigation should be carried out till the case is closed either by catching criminals responsible for discontinued when the trial stops
+Awareness should be made so that citizens will reduce movements when the rate of crime is on the high, especially women.
+
+---
+# Summary and Conclusion
+
+**It is seen that:**
+77th Street suffers the greatest number of crimes which is in North America with a cumulative of 8,700 crimes committed.
+Adults population are the most in population by age range who suffer attacks from criminals with a total of 10.2k criminal attacks suffered by them.
+Women are the most abused by criminals especially by their partners be it by physical assault, rape, and vandalism with a 59.79%
+North America has the highest crime rate as of 2020 till date
+Response rate has increased from 0 days to more than a year even while some cases are still under investigation.
+
+
+
 
 
 
