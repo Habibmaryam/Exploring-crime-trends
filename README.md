@@ -1,2 +1,2 @@
-# exploring-crime-trends
-Checking out the safety leel in the United states of America from year 2020 till 2023
+# Exploring-crime-trends
+Checking out the safety level in the United States of America from the year 2020 till 2023
