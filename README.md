@@ -136,6 +136,11 @@ Women are the most abused by criminals especially by their partners be it by phy
 North America has the highest crime rate as of 2020 till date
 Response rate has increased from 0 days to more than a year even while some cases are still under investigation.
 
+---
+# Visualization to be provided upon request
+
+
+
 
 
 
